@@ -45,6 +45,7 @@ Contact a Partner from the below list and ask to purchase the Microsoft Security
 >**Partners:**
 
 - Zones - Contact Details: cloudsupport@zones.com
+- Wortell - Contact Details: info@wortell.nl
 
 ### Become a Partner
 
